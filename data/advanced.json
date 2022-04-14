@@ -5,7 +5,7 @@
 		"description": "A simple snippet."
 	},
 	{
-		"displayText": "@snippet2",
+		"displayText": "snippet2",
 		"snippet": "Replace ${1:this text} then hit tab to replace ${2:this other text}.",
 		"description": "Another snippet."
 	},
